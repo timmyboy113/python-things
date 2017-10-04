@@ -1,0 +1,1 @@
+C:\Users\Bexlie\Documents\MEGAsync\Portable-Python\Python-Portable host.py

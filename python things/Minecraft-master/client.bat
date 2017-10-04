@@ -1,0 +1,8 @@
+C:\Users\Bexlie\Documents\PortablePython\Python-Portable main.py
+@echo off
+del *.pyc 
+del *.c
+del *.h
+del *.so
+
+del thumbs.db
